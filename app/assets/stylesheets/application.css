@@ -60,6 +60,6 @@ h2 {
   margin: 16.185px 0px;
 }
 
-div.field {
+.field, .action {
   margin-bottom: 10px
 }
